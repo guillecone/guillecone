@@ -29,9 +29,7 @@ Pero espera... ¡Eso no es todo!
 ## 📡 Dónde encontrarme
 
 - 🌐 **GitHub:** (https://github.com/guillecone/)
-- 👥 **LinkedIn:** [Tu perfil de LinkedIn]
-- 📧 **Email:** [Tu email]
 
 ---
-💪💡🎉 **Bienvenido a mi mundo digital!**
+💪💡🎉 **Bienvenidos al mundo digital!**
 
