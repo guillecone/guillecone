@@ -23,7 +23,7 @@ Pero espera... ¡Eso no es todo!
 - 💻 **Desarrollo web** con HTML, CSS y JavaScript.
 
 
-![imagen](https://raw.githubusercontent.com/guillecone/TFG/5c08698287c104b2dd212b246cab46655093fe69/imgportada/imgportada.png](https://raw.githubusercontent.com/guillecone/TFG/refs/heads/main/imgportada.webp)
+![imagen](https://raw.githubusercontent.com/guillecone/TFG/refs/heads/main/imgportada.webp)
 
 ---
 ## 📡 Dónde encontrarme
